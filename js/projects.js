@@ -22,11 +22,11 @@ const projects = [
 	{
 		title: "Game Manager",
 		description: "lorem ipsum numero tres",
-		imageUrl: "game-manager.png",
+		imageUrl: "thumb_game_manager.png",
 		technologies: ["Bootstrap 5", "Javascript"],
 		links: [
-			"https://github.com/web-rest-api/tp-1-bootstrap",
-			"https://web-rest-api.github.io/tp-1-bootstrap/",
+			"https://github.com/FlavienDefraine/game_manager_bootstrap",
+			"https://flaviendefraine.github.io/game_manager_bootstrap/",
 		],
 	},
 	{
