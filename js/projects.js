@@ -12,7 +12,7 @@ const projects = [
 	{
 		title: "Landing Page",
 		description: "Retrouvez mon exemple",
-		imageUrl: "front-01.png",
+		imageUrl: "bg.jpg",
 		technologies: ["Html", "Css"],
 		links: [
 			"https://github.com/FlavienDefraine/Landing-Page",
