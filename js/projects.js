@@ -40,13 +40,13 @@ const projects = [
 		],
 	},
 	{
-		title: "Users",
-		description: "Uthentication API",
+		title: "Cloudy DB and NodeJS",
+		description: "Authentication API",
 		imageUrl: "nodeJs-express.png",
-		technologies: ["NodeJs", "Express"],
+		technologies: ["NodeJs", "Express", "MongoDB"],
 		links: [
-			"https://replit.com/@MartinPedraza/node-expess#index.js",
-			"https://node-expess.martinpedraza.repl.co/",
+			"https://replit.com/@defflavien/node-expess-denver#index.js",
+			"https://github.com/FlavienDefraine/NodeJSmongoDB",
 		],
 	},
 ]
