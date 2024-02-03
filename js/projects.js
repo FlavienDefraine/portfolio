@@ -45,8 +45,8 @@ const projects = [
 		imageUrl: "mongoDB.png",
 		technologies: ["NodeJs", "Express", "MongoDB"],
 		links: [
-			"https://replit.com/@defflavien/node-expess-denver#index.js",
 			"https://github.com/FlavienDefraine/NodeJSmongoDB",
+			"https://replit.com/@defflavien/node-expess-denver#index.js",
 		],
 	},
 ]
