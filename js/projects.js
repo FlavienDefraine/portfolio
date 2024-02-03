@@ -2,7 +2,7 @@ const projects = [
 	{
 		title: "Python Flask",
 		description: "Retrouvez mon exemple d'API sur les chiens :)",
-		imageUrl: "flask-api.png",
+		imageUrl: "Flask.png",
 		technologies: ["Python", "Restful API"],
 		links: [
 			"https://github.com/FlavienDefraine/API-Python-Flask",
