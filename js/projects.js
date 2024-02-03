@@ -42,7 +42,7 @@ const projects = [
 	{
 		title: "Cloudy DB and NodeJS",
 		description: "Authentication API",
-		imageUrl: "nodeJs-express.png",
+		imageUrl: "mongoDB.png",
 		technologies: ["NodeJs", "Express", "MongoDB"],
 		links: [
 			"https://replit.com/@defflavien/node-expess-denver#index.js",
