@@ -10,8 +10,8 @@ const projects = [
 		],
 	},
 	{
-		title: "Landing Page",
-		description: "Retrouvez mon exemple",
+		title: "Demo landing page",
+		description: "Retrouvez mon exemple de page web",
 		imageUrl: "bg.jpg",
 		technologies: ["Html", "Css"],
 		links: [
@@ -21,8 +21,8 @@ const projects = [
 	},
 	{
 		title: "Game Manager",
-		description: "lorem ipsum numero tres",
-		imageUrl: "thumb_game_manager.jpg",
+		description: "Exemple de page web bootstrap",
+		imageUrl: "game-manager.png",
 		technologies: ["Bootstrap 5", "Javascript"],
 		links: [
 			"https://github.com/FlavienDefraine/game_manager_bootstrap",
@@ -30,9 +30,9 @@ const projects = [
 		],
 	},
 	{
-		title: "Favorite Books",
-		description: "lorem ipsum numero tres",
-		imageUrl: "favorite-books.png",
+		title: "Favorite Dogs",
+		description: "Connexion entre l'API Restful et la page web bootstrap",
+		imageUrl: "Golden_Retriever.jpg",
 		technologies: ["Bootstrap 5", "Javascript", "Resful API"],
 		links: [
 			"https://github.com/web-rest-api/tp3-bootstrap-api",
