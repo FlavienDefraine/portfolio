@@ -30,16 +30,6 @@ const projects = [
 		],
 	},
 	{
-		title: "Favorite Dogs",
-		description: "Connexion entre l'API Restful et la page web bootstrap",
-		imageUrl: "Golden_Retriever.jpg",
-		technologies: ["Bootstrap 5", "Javascript", "Resful API"],
-		links: [
-			"https://github.com/web-rest-api/tp3-bootstrap-api",
-			"https://web-rest-api.github.io/tp4-bootstrap-api/",
-		],
-	},
-	{
 		title: "Cloudy DB and NodeJS",
 		description: "Authentication API",
 		imageUrl: "mongoDB.png",
@@ -47,6 +37,16 @@ const projects = [
 		links: [
 			"https://github.com/FlavienDefraine/NodeJSmongoDB",
 			"https://replit.com/@defflavien/node-expess-denver#index.js",
+		],
+	},
+	{
+		title: "Favorite Dogs",
+		description: "En cours de développement .... Connexion entre l'API Restful et la page web bootstrap",
+		imageUrl: "Golden_Retriever.jpg",
+		technologies: ["Bootstrap 5", "Javascript", "Resful API"],
+		links: [
+			"https://github.com/FlavienDefraine/API-into-HTML",
+			"https://github.com/FlavienDefraine/API-into-HTML",
 		],
 	},
 ]
